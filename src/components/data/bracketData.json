@@ -233,7 +233,7 @@
         "team2Seed": 0,
         "team1":"Sweden",
         "team2":"Switzerland",
-        "prediction":"Switzerland",
+        "prediction":"Sweden",
         "actualWinner":"",
         "baseValue":3
       },
@@ -281,7 +281,7 @@
         "game":12,
         "team1Seed": 0,
         "team2Seed": 0,
-        "team1":"Switzerland",
+        "team1":"Sweden",
         "team2":"Colombia",
         "prediction":"Colombia",
         "actualWinner":"",
