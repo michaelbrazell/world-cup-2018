@@ -1,0 +1,37 @@
+.bracket-group .game-9 {
+  margin-top: 90px;
+}
+
+.bracket-group .game-10, .bracket-group .game-11, .bracket-group .game-12 {
+  margin-top: 180px;
+}
+
+.bracket-group .game-13 {
+  margin-top: 250px;
+}
+
+.bracket-group .game-14 {
+  margin-top: 515px;
+}
+
+.bracket-group .game-15 {
+  margin-top: 575px;
+}
+
+/* Medium devices (tablets, 768px and up) */
+
+@media (max-width: 991px) {
+  .bracket-group .game-13, .bracket-group .game-14 {
+    margin-top: 0;
+  }
+
+  .bracket-group .game-15 {
+    margin-top: 90px;
+  }
+}
+
+@media (max-width: 576px) {
+  .bracket-group .card {
+    margin-top: 0;
+  }
+}
