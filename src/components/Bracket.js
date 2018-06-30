@@ -82,7 +82,7 @@ class Bracket extends Component {
   render() {
     return (
       <div>
-        <h3 className="display-4 mb-3" id={this.state.bracket.slug}><span className={ this.state.bracket.name === "Official" ? "d-none" : "badge badge-secondary"}>{ this.calculatePoints(this.state.bracket) }</span> Bracket - {this.state.bracket.name} </h3>                
+        <h3 className="display-4 mb-3" id={this.state.bracket.slug}><span className={ this.state.bracket.name === "Official" ? "d-none" : "badge badge-secondary"}>{ this.calculatePoints(this.state.bracket) }</span> {this.state.bracket.name} </h3>                
         <div className="row bracket-group">
           <div className="col-xs-12 col-sm-6 col-md-6 col-lg-3">
             <h4>First Round <span className="badge badge-secondary float-right">3</span></h4>
