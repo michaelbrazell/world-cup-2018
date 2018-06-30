@@ -37,7 +37,7 @@ class Standings extends Component {
     if (bracketItem.slug !== "official") {
       return (
         <tr key={bracketItem.slug}>
-          <td>{bracketItem.name}</td>
+          <td>{bracketItem.name} ({bracketItem.totalGoals})</td>
           <td>{this.calculatePoints(bracketItem)}</td>
         </tr>
       )
@@ -50,7 +50,7 @@ class Standings extends Component {
         <table className="table table-striped standings-table">
           <thead>
             <tr>
-              <th scope="col">Name</th>
+              <th scope="col">Name (Total Goals, Tiebreaker)</th>
               <th scope="col">Points</th>
             </tr>
           </thead>
