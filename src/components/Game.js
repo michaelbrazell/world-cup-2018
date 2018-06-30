@@ -70,10 +70,10 @@ class Game extends Component {
         </div>
         <ul className="list-group list-group-flush">
           <li className={ this.state.prediction === this.state.team1 ? "list-group-item list-group-item-info" : "list-group-item" }>
-            <span className={ this.isBonus(this.state.prediction, this.state.team1, this.state.team2, this.state.team1Seed, this.state.team2Seed) }>{this.state.team1Seed}</span> {this.state.team1} <span className="float-right">{this.state.team1Score}</span>
+            {this.state.team1} <span className="float-right">{this.state.team1Score}</span>
           </li>
           <li className={ this.state.prediction === this.state.team2 ? "list-group-item list-group-item-info" : "list-group-item" }>
-            <span className={ this.isBonus(this.state.prediction, this.state.team1, this.state.team2, this.state.team1Seed, this.state.team2Seed) }>{this.state.team2Seed}</span> {this.state.team2} <span className="float-right">{this.state.team2Score}</span>
+            {this.state.team2} <span className="float-right">{this.state.team2Score}</span>
           </li>
         </ul>
       </div>
