@@ -13,8 +13,8 @@
         "team2Seed": 0,
         "team1":"Uruguay",
         "team2":"Portugal",
-        "prediction":"",
-        "actualWinner":"",
+        "prediction":"Uruguay",
+        "actualWinner":"Uruguay",
         "baseValue":3
       },
       {
@@ -91,7 +91,7 @@
         "game":9,
         "team1Seed": 0,
         "team2Seed": 0,
-        "team1":"Winner Game 1",
+        "team1":"Uruguay",
         "team2":"France",
         "prediction":"",
         "actualWinner":"",
@@ -174,7 +174,7 @@
         "team1":"Uruguay",
         "team2":"Portugal",
         "prediction":"Portugal",
-        "actualWinner":"",
+        "actualWinner":"Uruguay",
         "baseValue":3
       },
       {
@@ -334,7 +334,7 @@
         "team1":"Uruguay",
         "team2":"Portugal",
         "prediction":"Uruguay",
-        "actualWinner":"",
+        "actualWinner":"Uruguay",
         "baseValue":3
       },
       {
@@ -494,7 +494,7 @@
         "team1":"Uruguay",
         "team2":"Portugal",
         "prediction":"Portugal",
-        "actualWinner":"",
+        "actualWinner":"Uruguay",
         "baseValue":3
       },
       {
@@ -654,7 +654,7 @@
         "team1":"Uruguay",
         "team2":"Portugal",
         "prediction":"Uruguay",
-        "actualWinner":"",
+        "actualWinner":"Uruguay",
         "baseValue":3
       },
       {
@@ -814,7 +814,7 @@
         "team1":"Uruguay",
         "team2":"Portugal",
         "prediction":"Portugal",
-        "actualWinner":"",
+        "actualWinner":"Uruguay",
         "baseValue":3
       },
       {
@@ -974,7 +974,7 @@
         "team1":"Uruguay",
         "team2":"Portugal",
         "prediction":"Portugal",
-        "actualWinner":"",
+        "actualWinner":"Uruguay",
         "baseValue":3
       },
       {
@@ -1134,7 +1134,7 @@
         "team1":"Uruguay",
         "team2":"Portugal",
         "prediction":"Uruguay",
-        "actualWinner":"",
+        "actualWinner":"Uruguay",
         "baseValue":3
       },
       {
@@ -1294,7 +1294,7 @@
         "team1":"Uruguay",
         "team2":"Portugal",
         "prediction":"Portugal",
-        "actualWinner":"",
+        "actualWinner":"Uruguay",
         "baseValue":3
       },
       {
@@ -1454,7 +1454,7 @@
         "team1":"Uruguay",
         "team2":"Portugal",
         "prediction":"Portugal",
-        "actualWinner":"",
+        "actualWinner":"Uruguay",
         "baseValue":3
       },
       {
