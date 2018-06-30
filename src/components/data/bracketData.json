@@ -23,8 +23,8 @@
         "team2Seed": 0,
         "team1":"France",
         "team2":"Argentina",
-        "prediction":"",
-        "actualWinner":"",
+        "prediction":"France",
+        "actualWinner":"France",
         "baseValue":3
       },
       {
@@ -92,7 +92,7 @@
         "team1Seed": 0,
         "team2Seed": 0,
         "team1":"Winner Game 1",
-        "team2":"Winner Game 2",
+        "team2":"France",
         "prediction":"",
         "actualWinner":"",
         "baseValue":5
@@ -184,7 +184,7 @@
         "team1":"France",
         "team2":"Argentina",
         "prediction":"France",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":3
       },
       {
@@ -344,7 +344,7 @@
         "team1":"France",
         "team2":"Argentina",
         "prediction":"France",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":3
       },
       {
@@ -504,7 +504,7 @@
         "team1":"France",
         "team2":"Argentina",
         "prediction":"France",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":3
       },
       {
@@ -664,7 +664,7 @@
         "team1":"France",
         "team2":"Argentina",
         "prediction":"France",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":3
       },
       {
@@ -824,7 +824,7 @@
         "team1":"France",
         "team2":"Argentina",
         "prediction":"Argentina",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":3
       },
       {
@@ -984,7 +984,7 @@
         "team1":"France",
         "team2":"Argentina",
         "prediction":"Argentina",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":3
       },
       {
@@ -1144,7 +1144,7 @@
         "team1":"France",
         "team2":"Argentina",
         "prediction":"Argentina",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":3
       },
       {
@@ -1304,7 +1304,7 @@
         "team1":"France",
         "team2":"Argentina",
         "prediction":"France",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":3
       },
       {
@@ -1464,7 +1464,7 @@
         "team1":"France",
         "team2":"Argentina",
         "prediction":"Argentina",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":3
       },
       {
