@@ -93,56 +93,56 @@
         "team2Seed": 0,
         "team1":"Uruguay",
         "team2":"France",
-        "prediction":"",
-        "actualWinner":"",
+        "prediction":"France",
+        "actualWinner":"France",
         "baseValue":5
       },
       {
         "game":10,
         "team1Seed": 0,
         "team2Seed": 0,
-        "team1":"Winner Game 3",
-        "team2":"Winner Game 4",
-        "prediction":"",
-        "actualWinner":"",
+        "team1":"Brazil",
+        "team2":"Belgium",
+        "prediction":"Belgium",
+        "actualWinner":"Belgium",
         "baseValue":5
       },
       {
         "game":11,
         "team1Seed": 0,
         "team2Seed": 0,
-        "team1":"Winner Game 5",
-        "team2":"Winner Game 6",
-        "prediction":"",
-        "actualWinner":"",
+        "team1":"Russia",
+        "team2":"Croatia",
+        "prediction":"Croatia",
+        "actualWinner":"Croatia",
         "baseValue":5
       },
       {
         "game":12,
         "team1Seed": 0,
         "team2Seed": 0,
-        "team1":"Winner Game 7",
-        "team2":"Winner Game 8",
-        "prediction":"",
-        "actualWinner":"",
+        "team1":"Sweden",
+        "team2":"England",
+        "prediction":"England",
+        "actualWinner":"England",
         "baseValue":5
       },
       {
         "game":13,
         "team1Seed": 0,
         "team2Seed": 0,
-        "team1":"Winner Game 9",
-        "team2":"Winner Game 10",
-        "prediction":"",
-        "actualWinner":"",
+        "team1":"France",
+        "team2":"Belgium",
+        "prediction":"France",
+        "actualWinner":"France",
         "baseValue":8
       },
       {
         "game":14,
         "team1Seed": 0,
         "team2Seed": 0,
-        "team1":"Winner Game 11",
-        "team2":"Winner Game 12",
+        "team1":"Croatia",
+        "team2":"England",
         "prediction":"",
         "actualWinner":"",
         "baseValue":8
@@ -254,7 +254,7 @@
         "team1":"Portugal",
         "team2":"France",
         "prediction":"Portugal",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":5
       },
       {
@@ -264,7 +264,7 @@
         "team1":"Brazil",
         "team2":"Japan",
         "prediction":"Brazil",
-        "actualWinner":"",
+        "actualWinner":"Belgium",
         "baseValue":5
       },
       {
@@ -274,7 +274,7 @@
         "team1":"Spain",
         "team2":"Croatia",
         "prediction":"Spain",
-        "actualWinner":"",
+        "actualWinner":"Croatia",
         "baseValue":5
       },
       {
@@ -284,7 +284,7 @@
         "team1":"Sweden",
         "team2":"Colombia",
         "prediction":"Colombia",
-        "actualWinner":"",
+        "actualWinner":"England",
         "baseValue":5
       },
       {
@@ -294,7 +294,7 @@
         "team1":"Portugal",
         "team2":"Brazil",
         "prediction":"Portugal",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":8
       },
       {
@@ -414,7 +414,7 @@
         "team1":"Uruguay",
         "team2":"France",
         "prediction":"Uruguay",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":5
       },
       {
@@ -424,7 +424,7 @@
         "team1":"Brazil",
         "team2":"Belgium",
         "prediction":"Brazil",
-        "actualWinner":"",
+        "actualWinner":"Belgium",
         "baseValue":5
       },
       {
@@ -434,7 +434,7 @@
         "team1":"Spain",
         "team2":"Croatia",
         "prediction":"Croatia",
-        "actualWinner":"",
+        "actualWinner":"Croatia",
         "baseValue":5
       },
       {
@@ -444,7 +444,7 @@
         "team1":"Sweden",
         "team2":"Colombia",
         "prediction":"Sweden",
-        "actualWinner":"",
+        "actualWinner":"England",
         "baseValue":5
       },
       {
@@ -454,7 +454,7 @@
         "team1":"Uruguay",
         "team2":"Brazil",
         "prediction":"Brazil",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":8
       },
       {
@@ -574,7 +574,7 @@
         "team1":"Portugal",
         "team2":"France",
         "prediction":"Portugal",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":5
       },
       {
@@ -584,7 +584,7 @@
         "team1":"Brazil",
         "team2":"Belgium",
         "prediction":"Brazil",
-        "actualWinner":"",
+        "actualWinner":"Belgium",
         "baseValue":5
       },
       {
@@ -594,7 +594,7 @@
         "team1":"Spain",
         "team2":"Croatia",
         "prediction":"Croatia",
-        "actualWinner":"",
+        "actualWinner":"Croatia",
         "baseValue":5
       },
       {
@@ -604,7 +604,7 @@
         "team1":"Sweden",
         "team2":"Colombia",
         "prediction":"Sweden",
-        "actualWinner":"",
+        "actualWinner":"England",
         "baseValue":5
       },
       {
@@ -614,7 +614,7 @@
         "team1":"Portugal",
         "team2":"Brazil",
         "prediction":"Brazil",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":8
       },
       {
@@ -734,7 +734,7 @@
         "team1":"Uruguay",
         "team2":"France",
         "prediction":"Uruguay",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":5
       },
       {
@@ -744,7 +744,7 @@
         "team1":"Mexico",
         "team2":"Belgium",
         "prediction":"Belgium",
-        "actualWinner":"",
+        "actualWinner":"Belgium",
         "baseValue":5
       },
       {
@@ -754,7 +754,7 @@
         "team1":"Spain",
         "team2":"Croatia",
         "prediction":"Croatia",
-        "actualWinner":"",
+        "actualWinner":"Croatia",
         "baseValue":5
       },
       {
@@ -764,7 +764,7 @@
         "team1":"Switzerland",
         "team2":"England",
         "prediction":"England",
-        "actualWinner":"",
+        "actualWinner":"England",
         "baseValue":5
       },
       {
@@ -774,7 +774,7 @@
         "team1":"Uruguay",
         "team2":"Belgium",
         "prediction":"Belgium",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":8
       },
       {
@@ -894,7 +894,7 @@
         "team1":"Portugal",
         "team2":"Argentina",
         "prediction":"Argentina",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":5
       },
       {
@@ -904,7 +904,7 @@
         "team1":"Brazil",
         "team2":"Belgium",
         "prediction":"Brazil",
-        "actualWinner":"",
+        "actualWinner":"Belgium",
         "baseValue":5
       },
       {
@@ -914,7 +914,7 @@
         "team1":"Russia",
         "team2":"Croatia",
         "prediction":"Russia",
-        "actualWinner":"",
+        "actualWinner":"Croatia",
         "baseValue":5
       },
       {
@@ -924,7 +924,7 @@
         "team1":"Switzerland",
         "team2":"England",
         "prediction":"England",
-        "actualWinner":"",
+        "actualWinner":"England",
         "baseValue":5
       },
       {
@@ -934,7 +934,7 @@
         "team1":"Argentina",
         "team2":"Brazil",
         "prediction":"Brazil",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":8
       },
       {
@@ -1054,7 +1054,7 @@
         "team1":"Portugal",
         "team2":"Argentina",
         "prediction":"Portugal",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":5
       },
       {
@@ -1064,7 +1064,7 @@
         "team1":"Brazil",
         "team2":"Belgium",
         "prediction":"Brazil",
-        "actualWinner":"",
+        "actualWinner":"Belgium",
         "baseValue":5
       },
       {
@@ -1074,7 +1074,7 @@
         "team1":"Spain",
         "team2":"Croatia",
         "prediction":"Spain",
-        "actualWinner":"",
+        "actualWinner":"Croatia",
         "baseValue":5
       },
       {
@@ -1084,7 +1084,7 @@
         "team1":"Sweden",
         "team2":"England",
         "prediction":"England",
-        "actualWinner":"",
+        "actualWinner":"England",
         "baseValue":5
       },
       {
@@ -1094,7 +1094,7 @@
         "team1":"Portugal",
         "team2":"Brazil",
         "prediction":"Brazil",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":8
       },
       {
@@ -1214,7 +1214,7 @@
         "team1":"Uruguay",
         "team2":"Argentina",
         "prediction":"Argentina",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":5
       },
       {
@@ -1224,7 +1224,7 @@
         "team1":"Brazil",
         "team2":"Belgium",
         "prediction":"Brazil",
-        "actualWinner":"",
+        "actualWinner":"Belgium",
         "baseValue":5
       },
       {
@@ -1234,7 +1234,7 @@
         "team1":"Spain",
         "team2":"Croatia",
         "prediction":"Croatia",
-        "actualWinner":"",
+        "actualWinner":"Croatia",
         "baseValue":5
       },
       {
@@ -1244,7 +1244,7 @@
         "team1":"Sweden",
         "team2":"England",
         "prediction":"England",
-        "actualWinner":"",
+        "actualWinner":"England",
         "baseValue":5
       },
       {
@@ -1254,7 +1254,7 @@
         "team1":"Argentina",
         "team2":"Brazil",
         "prediction":"Brazil",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":8
       },
       {
@@ -1374,7 +1374,7 @@
         "team1":"Portugal",
         "team2":"France",
         "prediction":"Portugal",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":5
       },
       {
@@ -1384,7 +1384,7 @@
         "team1":"Mexico",
         "team2":"Belgium",
         "prediction":"Belgium",
-        "actualWinner":"",
+        "actualWinner":"Belgium",
         "baseValue":5
       },
       {
@@ -1394,7 +1394,7 @@
         "team1":"Spain",
         "team2":"Croatia",
         "prediction":"Croatia",
-        "actualWinner":"",
+        "actualWinner":"Croatia",
         "baseValue":5
       },
       {
@@ -1404,7 +1404,7 @@
         "team1":"Sweden",
         "team2":"Colombia",
         "prediction":"Sweden",
-        "actualWinner":"",
+        "actualWinner":"England",
         "baseValue":5
       },
       {
@@ -1414,7 +1414,7 @@
         "team1":"Portugal",
         "team2":"Belgium",
         "prediction":"Belgium",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":8
       },
       {
@@ -1534,7 +1534,7 @@
         "team1":"Portugal",
         "team2":"Argentina",
         "prediction":"Portugal",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":5
       },
       {
@@ -1544,7 +1544,7 @@
         "team1":"Mexico",
         "team2":"Japan",
         "prediction":"Mexico",
-        "actualWinner":"",
+        "actualWinner":"Belgium",
         "baseValue":5
       },
       {
@@ -1554,7 +1554,7 @@
         "team1":"Russia",
         "team2":"Croatia",
         "prediction":"Russia",
-        "actualWinner":"",
+        "actualWinner":"Croatia",
         "baseValue":5
       },
       {
@@ -1564,7 +1564,7 @@
         "team1":"Sweden",
         "team2":"England",
         "prediction":"England",
-        "actualWinner":"",
+        "actualWinner":"England",
         "baseValue":5
       },
       {
@@ -1574,7 +1574,7 @@
         "team1":"Portugal",
         "team2":"Mexico",
         "prediction":"Mexico",
-        "actualWinner":"",
+        "actualWinner":"France",
         "baseValue":8
       },
       {
