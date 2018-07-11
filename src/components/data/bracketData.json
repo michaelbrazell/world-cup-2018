@@ -151,7 +151,7 @@
         "game":15,
         "team1Seed": 0,
         "team2Seed": 0,
-        "team1":"Winner Game 13",
+        "team1":"France",
         "team2":"Winner Game 14",
         "prediction":"",
         "actualWinner":"",
@@ -162,7 +162,7 @@
   {
     "name":"Andy",
     "slug": "andy",
-    "winner":"Team",
+    "winner":"Portugal",
     "points":0,
     "max-points":0,
     "totalGoals":38,
@@ -322,7 +322,7 @@
   {
     "name":"Dan",
     "slug": "dan",
-    "winner":"Team",
+    "winner":"Croatia",
     "points":0,
     "max-points":0,
     "totalGoals":30,
@@ -482,7 +482,7 @@
   {
     "name":"Dave",
     "slug": "dave",
-    "winner":"Team",
+    "winner":"Croatia",
     "points":0,
     "max-points":0,
     "totalGoals":72,
@@ -642,7 +642,7 @@
   {
     "name":"John",
     "slug": "john",
-    "winner":"Team",
+    "winner":"Croatia",
     "points":0,
     "max-points":0,
     "totalGoals":34,
@@ -802,7 +802,7 @@
   {
     "name":"Kevin",
     "slug": "kevin",
-    "winner":"Team",
+    "winner":"Brazil",
     "points":0,
     "max-points":0,
     "totalGoals":50,
@@ -962,7 +962,7 @@
   {
     "name":"Mike",
     "slug": "mike",
-    "winner":"Team",
+    "winner":"Brazil",
     "points":0,
     "max-points":0,
     "totalGoals":51,
@@ -1122,7 +1122,7 @@
   {
     "name":"Nick",
     "slug": "nick",
-    "winner":"Team",
+    "winner":"Brazil",
     "points":0,
     "max-points":0,
     "totalGoals":41,
@@ -1282,7 +1282,7 @@
   {
     "name":"Paul",
     "slug": "paul",
-    "winner":"Team",
+    "winner":"Belgium",
     "points":0,
     "max-points":0,
     "totalGoals":32,
@@ -1442,7 +1442,7 @@
   {
     "name":"Yavuz",
     "slug": "yavuz",
-    "winner":"Team",
+    "winner":"Mexico",
     "points":0,
     "max-points":0,
     "totalGoals":23,
