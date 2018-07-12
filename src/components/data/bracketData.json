@@ -143,8 +143,8 @@
         "team2Seed": 0,
         "team1":"Croatia",
         "team2":"England",
-        "prediction":"",
-        "actualWinner":"",
+        "prediction":"Croatia",
+        "actualWinner":"Croatia",
         "baseValue":8
       },
       {
@@ -152,7 +152,7 @@
         "team1Seed": 0,
         "team2Seed": 0,
         "team1":"France",
-        "team2":"Winner Game 14",
+        "team2":"Croatia",
         "prediction":"",
         "actualWinner":"",
         "baseValue":13
@@ -304,7 +304,7 @@
         "team1":"Spain",
         "team2":"Colombia",
         "prediction":"Spain",
-        "actualWinner":"",
+        "actualWinner":"Croatia",
         "baseValue":8
       },
       {
@@ -464,7 +464,7 @@
         "team1":"Croatia",
         "team2":"Sweden",
         "prediction":"Croatia",
-        "actualWinner":"",
+        "actualWinner":"Croatia",
         "baseValue":8
       },
       {
@@ -624,7 +624,7 @@
         "team1":"Croatia",
         "team2":"Sweden",
         "prediction":"Croatia",
-        "actualWinner":"",
+        "actualWinner":"Croatia",
         "baseValue":8
       },
       {
@@ -784,7 +784,7 @@
         "team1":"Croatia",
         "team2":"England",
         "prediction":"Croatia",
-        "actualWinner":"",
+        "actualWinner":"Croatia",
         "baseValue":8
       },
       {
@@ -944,7 +944,7 @@
         "team1":"Russia",
         "team2":"England",
         "prediction":"Russia",
-        "actualWinner":"",
+        "actualWinner":"Croatia",
         "baseValue":8
       },
       {
@@ -1104,7 +1104,7 @@
         "team1":"Spain",
         "team2":"England",
         "prediction":"Spain",
-        "actualWinner":"",
+        "actualWinner":"Croatia",
         "baseValue":8
       },
       {
@@ -1264,7 +1264,7 @@
         "team1":"Croatia",
         "team2":"England",
         "prediction":"Croatia",
-        "actualWinner":"",
+        "actualWinner":"Croatia",
         "baseValue":8
       },
       {
@@ -1424,7 +1424,7 @@
         "team1":"Croatia",
         "team2":"Sweden",
         "prediction":"Croatia",
-        "actualWinner":"",
+        "actualWinner":"Croatia",
         "baseValue":8
       },
       {
@@ -1584,7 +1584,7 @@
         "team1":"Russia",
         "team2":"England",
         "prediction":"Russia",
-        "actualWinner":"",
+        "actualWinner":"Croatia",
         "baseValue":8
       },
       {
